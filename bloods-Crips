@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<head>
+    <title>Bloods & Crips</title>
+    <link rel="stylesheet" href="acc.css">
+</head>
+<body>
+<header>
+  <div id="header1"> <div id="logo"><a href="Page 1.html"><img src="cripsbloods.jpg" width="188" height="140" alt="Acceuil"/></a></div>
+  <div class="col-size">
+      <div class="vert-center">
+        <h1>La vie des rappeurs affilié à un gang </h1>
+    </div>
+ </div>
+</div></div>
+<div id="Alinea">
+  <ul>
+  <h2>
+  <a href="frc.html">Crips</a>
+  <a href="frb.html">Bloods</a>
+  <a href="tupaf.html">Tupac</a>
+</h2></ul></div></div>
+   <div>
+   
+ </header>
+ <section>
+   <div id="middle"><h3 class="intro">
+    Les Crips & Bloods sont deux gangs originaires de Campton<br> à Los Angeles.
+  Les Crips sont fondées en 1969 par Stanley<br> Williams et Raymond Washington 
+  tandis que les Bloods sont<br> fondées en 1972 par Vincent Owens et Sylvester Scott,
+   ils<br> sont connue en bonne partie pour leurs couleurs respectives<br> le rouge et le bleu.
+  Ils sont composés en majeure partie<br> d'Afro-américain. À l'origine les Crips étaient 
+  une alliance <br>de plusieurs bandes de jeunes délinquants de la partie<br> OUEST de 
+  L.A et les Bloods étaient une affiliation de gros<br> 
+  </h3>
+    <h3 class="intro2">bonnet de L.A qui ne voulaient pas 
+      laisser les Crips continuer à affilier d'autre gang<br> sur le territoire notamment sur la partie EST de L.A.
+    </h3>
+    
+  
+  <h3 class="intro3">Leur debut n'etait que des baggare entre bande rival mais au deces de Raymond<br>  
+    et en vue du sur nombre des crips les choses degenerent.<br> 
+    Le sur nombre des crips entraina les bloods a compenser avec des armes, <br>
+    des reglement de compte en entraina d'autre,puis l'arrivee des drogues synthetiques<br>
+    donna une autre tournure a ces deux gangs. <br>
+    <br>Dans les annees 90, le mouvement hip-pop prend de l'empleur dans les ghettos et les<br> premiers
+    rappeurs de campton naissent.</h3>
+    
+  <h3 class="Style1"><img src=SOC.png style='width: 300px;' /> </h3></div>
+   </section>
+   <div class="p">
+    <select name="nimporte" onChange="location.href=''+this.options[this.selectedIndex].value+'.html';">
+      <option value="ac">Français</option>
+         <option value="ace">Anglais</option>
+         
+    </select>
+    </div>
+    <div class="audio">
+      <audio controls>
+          <source src="instru snoop dog.mp3" type="audio/mpeg">
+          <source src="instru snoop dog.ogg" type="audio/ogg">
+          </audio>
+      </div>
+
+</body> 
+ 
